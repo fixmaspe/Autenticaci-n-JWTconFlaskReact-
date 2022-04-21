@@ -67,7 +67,7 @@ _Para levantar el servidor_
 ```
 python src/app.py
 ```
-
+[![65.png](https://i.postimg.cc/tR6RBFhn/65.png)](https://postimg.cc/fkwhLtqM)
 
 
 
